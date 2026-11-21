@@ -36,7 +36,7 @@ Download the file matching your server from the artifacts of the **Build voice m
 
 **On a 64-bit server, two versions are available:**
 - **base**: lightweight, fine for most servers.
-- **small**: understands French much better, but uses more memory and CPU. Take the artifact prefixed with `small-`; the file inside has the same name as above.
+- **small**: understands much better, but uses more memory and CPU.
 
 32-bit servers only have the **base** version.
 
@@ -49,8 +49,8 @@ Download the file matching your server from the artifacts of the **Build voice m
 ### Troubleshooting
 
 - **Nothing in the console on startup**: check the folder (`lua/bin/`), the file name, and that it matches your server type (step 1).
-- **The module refuses to start on a 64-bit server**: the machine's CPU is too old (see [Requirements](#requirements)).
-- **The module stopped working after a Garry's Mod update**: wait for an update of the module (see [Known limitations](#known-limitations)).
+- **The module refuses to start on a 64-bit server**: the machine's CPU is too old.
+- **The module stopped working after a Garry's Mod update**: wait for an update of the module.
 
 > **Privacy:** voice is never recorded, only the text is used. Still, let your players know that their voice is analysed (GDPR).
 
