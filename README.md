@@ -25,7 +25,7 @@ lua_run print(jit.os, jit.arch)
 
 ### 2. Pick the file
 
-Download the file matching your server from the artifacts of the **Build voice module** workflow:
+Download the file matching your server int the [Releases section](https://github.com/MrMarrant/Voice-Module-Detection-GarrysMod/releases):
 
 | Server | File |
 |---|---|
