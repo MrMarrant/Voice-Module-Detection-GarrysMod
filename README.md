@@ -66,7 +66,7 @@ Download the file matching your server int the [Releases section](https://github
 
 The model is chosen at build time and embedded in the file. `scp_2521_voice_status` shows which one is installed.
 
-| Model | Size | Extra RAM | Compute | French | Platforms |
+| Model | Size | Extra RAM | Compute | Interpretation | Platforms |
 |---|---|---|---|---|---|
 | `base` (default) | ~57 MB | ~250 MB (measured: 215 MB) | baseline | weak | all |
 | `small` | ~190 MB | ~500 MB (estimate, not measured) | ~3× more | much better | 64-bit only |
